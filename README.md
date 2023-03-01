@@ -10,3 +10,8 @@
 **Associate in Arts and Science DTA**\
 2012\
 [Whatcom Commuity College](https://www.whatcom.edu/)
+
+## Research Interests
+
+Deep-sea ecology\
+Invertebrate biology
